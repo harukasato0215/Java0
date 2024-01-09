@@ -16,7 +16,8 @@ public class Main {
 	int X;
 	X=6;
 	System.out.println(X * X * 3.14 );
-	System.out.println("メインだよ" );
+	System.out.println("メインだよあいうえお" );
+	System.out.println("わーくぶらんちです" );
 	}
 
 }
